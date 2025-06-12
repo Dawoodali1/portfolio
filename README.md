@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Dawood | Web Designer</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
-    header { background: #007acc; color: white; padding: 20px; text-align: center; }
-    section { padding: 40px; max-width: 900px; margin: auto; }
-    .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
-    .project-card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-    footer { background: #333; color: white; text-align: center; padding: 15px; }
-    a { color: #007acc; text-decoration: none; }
-  </style>
-</head>
-<body>
-
   <header>
     <h1>Dawood</h1>
     <p>Web Designer | UI/UX Enthusiast | Frontend Developer</p>
